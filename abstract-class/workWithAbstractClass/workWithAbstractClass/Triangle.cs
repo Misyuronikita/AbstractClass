@@ -8,35 +8,33 @@ namespace workWithAbstractClass
 {
     internal class Triangle : Figure
     {
+        private double Side1 { get; set; }
 
-        private double A { get; set; }
+        private double Side2 { get; set; }
 
-        private double B { get; set; }
-
-        private double C { get; set; }
+        private double Side3 { get; set; }
 
         public Triangle(double a, double b, double c)
         {
-            A = a;
-            B = b;
-            C = c;
+            Side1 = a;
+            Side2 = b;
+            Side3 = c;
         }
 
         public override double Perimetr()
         {
-            return A + B + C;
+            return Side1 + Side2 + Side3;
         }
 
         public override double Square()
         {
-            double p = (A + B + C) / 2;
-            return Math.Sqrt(p * (p - A) * (p - B) * (p - C));
+            double p = (Side1 + Side2 + Side3) / 2;
+            return Math.Sqrt(p * (p - Side1) * (p - Side2) * (p - Side3));
         }
 
         public override void Info()
         {
-            Console.WriteLine($"  Tреугольник\nСторона А = {A}\nСторона Б = {B}\nСторона C = {C}\nПериметр = {Perimetr()}\nПлощадь = {Square()}");
+            Console.WriteLine($"  Tреугольник\nСторона А = {Side1}\nСторона Б = {Side2}\nСторона C = {Side3}\nПериметр = {Perimetr()}\nПлощадь = {Square()}");
         }
-
     }
 }

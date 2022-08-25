@@ -8,7 +8,6 @@ namespace workWithAbstractClass
 {
     internal class Rectangle : Figure
     {
-
         private double Side1 { get; set; }
 
         private double Side2 { get; set; }
@@ -33,6 +32,5 @@ namespace workWithAbstractClass
         {
             Console.WriteLine($"  Прямоугольник\nСторона А = {Side1}\nСторона Б = {Side2}\nПериметр = {Perimetr()}\nПлощадь = {Square()}\n\n\n");
         }
-
     }
 }

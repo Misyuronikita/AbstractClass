@@ -8,7 +8,6 @@ namespace workWithAbstractClass
 {
     internal class Circle : Figure
     {
-
         private double Radius { get; set; }
 
         public Circle(double radius)
@@ -30,6 +29,5 @@ namespace workWithAbstractClass
         {
             Console.WriteLine($"  Kруг\nPадиус = {Radius}\nПериметр = {Perimetr()}\nПлощадь = {Square()}\n\n\n");
         }
-
     }
 }
