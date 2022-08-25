@@ -1,0 +1,8 @@
+C:\Users\Nikita\Desktop\практика c#\ООП\abstract-class\workWithAbstractClass\workWithAbstractClass\bin\Debug\workWithAbstractClass.exe.config
+C:\Users\Nikita\Desktop\практика c#\ООП\abstract-class\workWithAbstractClass\workWithAbstractClass\bin\Debug\workWithAbstractClass.exe
+C:\Users\Nikita\Desktop\практика c#\ООП\abstract-class\workWithAbstractClass\workWithAbstractClass\bin\Debug\workWithAbstractClass.pdb
+C:\Users\Nikita\Desktop\практика c#\ООП\abstract-class\workWithAbstractClass\workWithAbstractClass\obj\Debug\workWithAbstractClass.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\практика c#\ООП\abstract-class\workWithAbstractClass\workWithAbstractClass\obj\Debug\workWithAbstractClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\Desktop\практика c#\ООП\abstract-class\workWithAbstractClass\workWithAbstractClass\obj\Debug\workWithAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\практика c#\ООП\abstract-class\workWithAbstractClass\workWithAbstractClass\obj\Debug\workWithAbstractClass.exe
+C:\Users\Nikita\Desktop\практика c#\ООП\abstract-class\workWithAbstractClass\workWithAbstractClass\obj\Debug\workWithAbstractClass.pdb
